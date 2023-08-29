@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "curveFitting",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "curveFitting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-curveFitting-Debug-dcb554c9cbafbb89d159.json",
+					"name" : "curveFitting",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/My Home/Courses/#My Faculty/Fourth Level/First Semester/Soft Computing/Assignments/Assignment 2/curveFitting/cmake-build-debug",
+		"source" : "D:/My Home/Courses/#My Faculty/Fourth Level/First Semester/Soft Computing/Assignments/Assignment 2/curveFitting"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
